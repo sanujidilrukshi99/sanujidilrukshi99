@@ -22,9 +22,12 @@ Let's collaborate and create! Feel free to reach out for discussions, collaborat
 ⚡ Fun Fact:
 
 Beyond coding, I enjoy [insert hobbies/interests], adding a touch of diversity to my life.
-📬 Contact:
+📬 Contact me with:
 
+Email 
 sanuji.dilrukshi99@gmail.com
+
+Linkedin 
 www.linkedin.com/in/d-g-sanuji-dilrukshi-b21824261
 
 🌟 Open to Opportunities:
