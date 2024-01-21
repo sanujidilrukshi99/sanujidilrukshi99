@@ -3,25 +3,32 @@
 🎓 Education:
 
 Pursuing my BIT degree at the University of Colombo School of Computing.
+
 💻 Programming Languages:
 
 Exploring the possibilities of Python, Java, C# and steadily building proficiency in its use.
+
 🌐 Web Development:
 
 Experienced in HTML and CSS for crafting visually appealing and user-friendly web interfaces.
 Well-versed in PHP for server-side scripting, enhancing the functionality of web applications.
+
 🚀 Projects:
 
 Excited to showcase my coding journey through innovative projects that blend technology and creativity.
+
 🌱 Learning & Growth:
 
 Committed to continuous learning and staying updated with the latest advancements in the tech world.
+
 🤝 Connect with Me:
 
 Let's collaborate and create! Feel free to reach out for discussions, collaborations, or just to connect.
+
 ⚡ Fun Fact:
 
-Beyond coding, I enjoy [insert hobbies/interests], adding a touch of diversity to my life.
+Beyond coding, I enjoy Singing, adding a touch of diversity to my life.
+
 📬 Contact me with:
 
 Email 
